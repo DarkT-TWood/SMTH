@@ -1,2 +1,3 @@
 # SMTH
-11th grade project
+restaurant self checkout system
+on python
